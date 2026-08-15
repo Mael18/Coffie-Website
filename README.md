@@ -1,1 +1,1 @@
-# Coffie-Website
+Batch Brew final vertical swipe menu. Keep index.html, style.css, script.js and assets/ together. The JS includes a base64 image fallback so the product remains visible even if the asset path fails.
